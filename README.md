@@ -1,16 +1,31 @@
-# app_google_ml_kit
+# 📷🔤 App de Reconhecimento de Texto com Leitura em Voz (Flutter)
 
-A new Flutter project.
+Este é um aplicativo Flutter que utiliza **Google ML Kit** para reconhecimento de texto em imagens e **Flutter TTS** para leitura em voz alta. Ideal para pessoas com **baixa visão** ou outras necessidades de acessibilidade.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🧠 Funcionalidades
 
-A few resources to get you started if this is your first Flutter project:
+- Captura imagens com a câmera ou escolhe da galeria
+- Reconhece texto nas imagens usando **ML Kit**
+- Lê automaticamente o texto reconhecido com **Flutter TTS**
+- Interface simples, acessível e amigável
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Tecnologias e Pacotes
+
+- `camera` 📷
+- `image_picker` 🖼️
+- `google_mlkit_text_recognition` 🧠
+- `flutter_tts` 🔊
+
+---
+
+## 🚀 Como executar o projeto
+
+### 1. Clone o repositório
+
+```bash
+git clone https://github.com/seu-usuario/nome-do-repo.git
+cd nome-do-repo
