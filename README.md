@@ -20,12 +20,4 @@ Este é um aplicativo Flutter que utiliza **Google ML Kit** para reconhecimento 
 - `google_mlkit_text_recognition` 🧠
 - `flutter_tts` 🔊
 
----
 
-## 🚀 Como executar o projeto
-
-### 1. Clone o repositório
-
-```bash
-git clone https://github.com/seu-usuario/nome-do-repo.git
-cd nome-do-repo
